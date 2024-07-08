@@ -2,6 +2,8 @@
   "ethereum":       101,
   "arbitrum":       110,
   "optimism":       111,
+  "nexis":       129,
   "goerli-mainnet": 154,
-  "sepolia-mainnet": 161
+  "sepolia-mainnet": 161,
+  "nexis-mainnet": 169
 }
